@@ -94,3 +94,6 @@
 	path = templates/django
 	url = git://github.com/vtolstov/packer-django.git
 	branch = master
+[submodule "templates/cpanel"]
+	path = templates/cpanel
+	url = https://github.com/ealekseev/packer-cpanel.git
